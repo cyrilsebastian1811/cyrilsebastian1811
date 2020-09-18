@@ -57,6 +57,9 @@
 #### CSYE-7220
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=prussian&username=cyrilsebastian1811&repo=Devops7220)][Devops7220]
 
+#### INFO-6250
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=prussian&username=cyrilsebastian1811&repo=UDating)][UDating]
+
 #### Other
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=prussian&username=cyrilsebastian1811&repo=Tvitter)][Tvitter]
 
@@ -80,6 +83,8 @@
 [Users-S3-Bucket-Operator]: https://github.com/cyrilsebastian1811/Users-S3-Bucket-Operator
 
 [Devops7220]: https://github.com/cyrilsebastian1811/Devops7220
+
+[UDating]: https://github.com/cyrilsebastian1811/UDating
 
 [Tvitter]: https://github.com/cyrilsebastian1811/Tvitter
 
