@@ -63,13 +63,11 @@
 
 </details>
 
-<details>
+<br/>
+
   :zap: Github Stats
   
   [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&show_icons=true&theme=prussian)](https://github.com/cyrilsebastian1811/github-readme-stats)
-
-
-</details>
 
 [website]: http://www.cyril-sebastian.com
 [linkedin]: https://www.linkedin.com/in/cyril1811/
