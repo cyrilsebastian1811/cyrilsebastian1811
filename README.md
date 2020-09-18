@@ -3,8 +3,7 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
 
 <br/>
 
@@ -37,8 +36,8 @@
 
 <br/>
 
----
-### :zap: Recent Github Activity
+
+<-- ### :zap: Recent Github Activity -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
