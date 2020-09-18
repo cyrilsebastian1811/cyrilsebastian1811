@@ -1,4 +1,4 @@
-### Hi there, I'm Cyril Sebasttian
+### Hi there, I'm Cyril Sebastian
 [![Website](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.cyril-sebastian.com)
 
 ## I'm an Engineer with some experience in cloud computing, web development and Kubernetes!
