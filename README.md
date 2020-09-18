@@ -5,8 +5,6 @@
 ### Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
 
-<br/>
-
 
 ### Languages and Tools:
 
@@ -42,17 +40,14 @@
 <!--END_SECTION:activity-->
 
 
----
 ### :zap: Github Stats
 [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&count_private=true&show_icons=true&theme=prussian)][stats]
 
 
----
 ### :zap: Frequent used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&theme=prussian)][stats]
 
 
----
 ### :zap: Popular Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
