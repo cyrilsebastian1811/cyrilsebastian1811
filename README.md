@@ -8,6 +8,9 @@
 - React
 - Angular
 - Cloud Computing: (AWS, Azure)
+- Kubernetes
+- EFK, Grafana | Prometheus
+- Redis
 
 
 ### Connect with me:
@@ -61,9 +64,9 @@
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  :zap: Github Stats
   
-  [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&show_icons=true&theme=radical)](https://github.com/cyrilsebastian1811/github-readme-stats)
+  [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&show_icons=true&theme=prussian)](https://github.com/cyrilsebastian1811/github-readme-stats)
 
 
 </details>
