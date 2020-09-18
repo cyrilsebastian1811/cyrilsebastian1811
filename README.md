@@ -2,22 +2,10 @@
 [![Website](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.cyril-sebastian.com)
 
 
-### Skills
-- Spring-Boot with Hibernate
-- NodeJs
-- React
-- Angular
-- Cloud Computing: (AWS, Azure)
-- Kubernetes
-- EFK, Grafana | Prometheus
-- Redis
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 
 ### Languages and Tools:
 
@@ -45,18 +33,11 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
+### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
 
 ---
 ### :zap: Github Stats
@@ -69,6 +50,7 @@
 
 
 ---
+### :zap: Popular Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Recipe-Management-System-frontend)][Recipe-Management-System-frontend]
