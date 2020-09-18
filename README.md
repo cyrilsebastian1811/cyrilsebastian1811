@@ -38,9 +38,9 @@
 ### :zap: Frequent used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&theme=prussian)][stats]
 
-### :zap: Popular Repositories
+### :zap: Favourite Repositories
 #### CSYE-6225
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=prussian&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]
 
