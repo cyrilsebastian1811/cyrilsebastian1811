@@ -74,7 +74,7 @@
 
 :zap: Frequent used languages
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8)][stats]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&show_icons=true&theme=prussian)][stats]
 
 
 [website]: http://www.cyril-sebastian.com
