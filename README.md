@@ -36,7 +36,7 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngjoy.com%2Fpreview%2Fe1o9f4b6d3i2w4_database-icon-mongodb-png-download%2F&psig=AOvVaw17voirsbpk8MtpTNmQ14qW&ust=1600501261590000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik4P-Z8usCFQAAAAAdAAAAABAD" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
