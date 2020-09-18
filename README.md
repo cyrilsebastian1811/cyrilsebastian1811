@@ -62,8 +62,9 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+  
+  [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811)](https://github.com/cyrilsebastian1811/github-readme-stats)
 
-  <img align="left" alt="cyrilsebastian1811's Github Stats" src="https://github-readme-stats.cyrilsebastian1811.vercel.app/api?username=cyrilsebastian1811&show_icons=true&hide_border=true" />
 
 </details>
 
