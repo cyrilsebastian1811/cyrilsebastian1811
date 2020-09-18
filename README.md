@@ -43,6 +43,12 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Recipe-Management-System-frontend)][Recipe-Management-System-frontend]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Recipe-Management-System-backend)][Recipe-Management-System-backend]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Logs_Metrics-HelmChart)][Logs_Metrics-HelmChart]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=K8s-Cluster-Setup)][K8s-Cluster-Setup]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Jenkins-Setup)][Jenkins-Setup]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=K8s-Cluster-Configuration)][K8s-Cluster-Configuration]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=)][]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=)][]
 
 
 
@@ -53,3 +59,9 @@
 [Serverless-Email-Notifier]: https://github.com/cyrilsebastian1811/Serverless-Email-Notifier
 [Recipe-Management-System-frontend]: https://github.com/cyrilsebastian1811/Recipe-Management-System-frontend
 [Recipe-Management-System-backend]: https://github.com/cyrilsebastian1811/Recipe-Management-System-backend
+[Logs_Metrics-HelmChart]: https://github.com/cyrilsebastian1811/Logs_Metrics-HelmChart
+[K8s-Cluster-Setup]: https://github.com/cyrilsebastian1811/K8s-Cluster-Setup
+[Jenkins-Setup]: https://github.com/cyrilsebastian1811/Jenkins-Setup
+[K8s-Cluster-Configuration]: https://github.com/cyrilsebastian1811/K8s-Cluster-Configuration
+[]: https://github.com/cyrilsebastian1811/
+[]: https://github.com/cyrilsebastian1811/
