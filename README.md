@@ -71,10 +71,13 @@
 ---
 ### :zap: Frequent used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&theme=prussian)][stats]
-CSYE6225-AMI
 
+
+---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Recipe-Management-System-frontend)][Recipe-Management-System-frontend]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyrilsebastian1811&repo=Recipe-Management-System-backend)][Recipe-Management-System-backend]
 
 
 
@@ -83,3 +86,5 @@ CSYE6225-AMI
 [stats]: https://github.com/cyrilsebastian1811/github-readme-stats
 [CSYE6225-AMI]: https://github.com/cyrilsebastian1811/CSYE6225-AMI
 [Serverless-Email-Notifier]: https://github.com/cyrilsebastian1811/Serverless-Email-Notifier
+[Recipe-Management-System-frontend]: https://github.com/cyrilsebastian1811/Recipe-Management-System-frontend
+[Recipe-Management-System-backend]: https://github.com/cyrilsebastian1811/Recipe-Management-System-backend
