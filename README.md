@@ -65,9 +65,15 @@
 
 <br/>
 
-  :zap: Github Stats
-  
-  [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&show_icons=true&theme=prussian&count_private=true)](https://github.com/cyrilsebastian1811/github-readme-stats)
+:zap: Github Stats
+[![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&count_private=true&show_icons=true&theme=prussian)][stats]
+
+<br/>
+
+:zap: Frequent used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact)][stats]
+
 
 [website]: http://www.cyril-sebastian.com
 [linkedin]: https://www.linkedin.com/in/cyril1811/
+[stats]: https://github.com/cyrilsebastian1811/github-readme-stats
