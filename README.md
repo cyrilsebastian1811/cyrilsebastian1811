@@ -41,40 +41,11 @@
 
 ### :zap: Favourite Repositories
 #### CSYE-6225
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI){:height="115px" width="50%"}
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]{:style="width: 50%;"}
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]{:style="width: 50%;"}
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&card_width=450&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&card_width=450&username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]{:style="width: 50%;"}
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&card_width=450&username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]
 
 #### CSYE-7374
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/cyrilsebastian1811/Jenkins-Setup" title="Jenkins-Setup">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Jenkins-Setup">
-  </a>
-  <a align="right" href="https://github.com/cyrilsebastian1811/K8s-Cluster-Setup" title="K8s-Cluster-Setup">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=K8s-Cluster-Setup">
-  </a>
-  <a align="left" href="https://github.com/cyrilsebastian1811/K8s-Cluster-Configuration" title="K8s-Cluster-Configuration">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=K8s-Cluster-Configuration">
-  </a>
-  <a align="right" href="https://github.com/cyrilsebastian1811/Logs_Metrics-HelmChart" title="Logs_Metrics-HelmChart">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Logs_Metrics-HelmChart">
-  </a>
-  <a align="left" href="https://github.com/cyrilsebastian1811/Recipe-Management-System-frontend" title="Recipe-Management-System-frontend">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Recipe-Management-System-frontend">
-  </a>
-  <a align="right" href="https://github.com/cyrilsebastian1811/Recipe-Management-System-backend" title="Recipe-Management-System-backend">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Recipe-Management-System-backend">
-  </a>
-  <a align="left" href="https://github.com/cyrilsebastian1811/Recipe-Management-System-Helm-Charts" title="Recipe-Management-System-Helm-Charts">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Recipe-Management-System-Helm-Charts">
-  </a>
-  <a align="right" href="https://github.com/cyrilsebastian1811/Users-S3-Bucket-Operator" title="Users-S3-Bucket-Operator">
-    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Users-S3-Bucket-Operator">
-  </a>
-</p>
-
-<br><br>
 
 #### CSYE-7220
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Devops7220)][Devops7220]
