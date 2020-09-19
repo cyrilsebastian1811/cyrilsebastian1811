@@ -1,5 +1,4 @@
-### Hi there, I'm Cyril Sebastian ![](https://komarev.com/ghpvc/?username=cyrilsebastian1811&label=PROFILE+VIEWS)
-![](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=http://www.cyril-sebastian.com)
+### Hi there, I'm Cyril Sebastian ![](https://komarev.com/ghpvc/?username=cyrilsebastian1811)
 [![](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=http://www.cyril-sebastian.com)](http://www.cyril-sebastian.com)
 
 
