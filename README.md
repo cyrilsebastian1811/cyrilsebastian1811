@@ -1,6 +1,6 @@
 ### Hi there, I'm Cyril Sebastian
 [![website](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=http://www.cyril-sebastian.com)](http://www.cyril-sebastian.com)
-[![](https://komarev.com/ghpvc/?username=cyrilsebastian1811&label=PROFILE+VIEWS)]()
+[![](https://komarev.com/ghpvc/?username=cyrilsebastian1811&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=cyrilsebastian1811&label=PROFILE+VIEWS)
 
 ### Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
@@ -37,7 +37,7 @@
 [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&count_private=true&show_icons=true&theme=prussian)][stats]
 
 ### :zap: Frequent used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&theme=prussian&card_width=430)][stats]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&theme=prussian&card_width=450)][stats]
 
 ### :zap: Favourite Repositories
 #### CSYE-6225
