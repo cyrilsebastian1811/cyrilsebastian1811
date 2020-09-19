@@ -42,14 +42,14 @@
 ### :zap: Favourite Repositories
 #### CSYE-6225
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/cyrilsebastian1811/CSYE6225-AMI" title="CSYE6225-AMI">
-    <img align="left" width="100%" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI">
+  <a align="left" width="50%" href="https://github.com/cyrilsebastian1811/CSYE6225-AMI" title="CSYE6225-AMI">
+    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI">
   </a>
-  <a align="right" href="https://github.com/cyrilsebastian1811/Serverless-Email-Notifier" title="Serverless-Email-Notifier">
-    <img align="right" width="100%" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Serverless-Email-Notifier">
+  <a align="right" width="50%" href="https://github.com/cyrilsebastian1811/Serverless-Email-Notifier" title="Serverless-Email-Notifier">
+    <img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Serverless-Email-Notifier">
   </a>
-  <a align="left" href="https://github.com/cyrilsebastian1811/Library-Management-System" title="Library-Management-System">
-    <img align="left" width="50%" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Library-Management-System">
+  <a align="left" width="50%" href="https://github.com/cyrilsebastian1811/Library-Management-System" title="Library-Management-System">
+    <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Library-Management-System">
   </a>
 </p>
 
@@ -58,6 +58,14 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]
 
 #### CSYE-7374
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/cyrilsebastian1811/" title="">
+    <img align="left" width="50%" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=">
+  </a>
+  <a align="right" href="https://github.com/cyrilsebastian1811/" title="">
+    <img align="left" width="50%" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=">
+  </a>
+</p>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Jenkins-Setup)][Jenkins-Setup]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=K8s-Cluster-Setup)][K8s-Cluster-Setup]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=K8s-Cluster-Configuration)][K8s-Cluster-Configuration]
