@@ -42,7 +42,7 @@
 ### :zap: Favourite Repositories
 #### CSYE-6225
 <p width="100%" align="center">
-  <a align="left" width="50%" href="https://github.com/cyrilsebastian1811/CSYE6225-AMI" title="CSYE6225-AMI">
+  <a align="left" style="clear: both; width: 50%;" href="https://github.com/cyrilsebastian1811/CSYE6225-AMI" title="CSYE6225-AMI">
     <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI">
   </a>
   <a align="right" width="50%" href="https://github.com/cyrilsebastian1811/Serverless-Email-Notifier" title="Serverless-Email-Notifier">
