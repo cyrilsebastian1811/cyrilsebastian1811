@@ -41,6 +41,15 @@
 
 ### :zap: Favourite Repositories
 #### CSYE-6225
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham">
+  </a>
+  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham">
+  </a>
+</p>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]
