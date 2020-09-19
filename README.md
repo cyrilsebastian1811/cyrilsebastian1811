@@ -43,7 +43,7 @@
 #### CSYE-6225
 <p width="100%" align="center">
   <a align="left" href="https://github.com/cyrilsebastian1811/CSYE6225-AMI" title="CSYE6225-AMI">
-    <img align="left" style="width: 50%; height: 115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI">
+    <img align="left" width="50%" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI">
   </a>
 </p>
 
