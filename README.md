@@ -1,8 +1,8 @@
 ### Hi there, I'm Cyril Sebastian
+![](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=http://www.cyril-sebastian.com)
 [![website](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=http://www.cyril-sebastian.com)](http://www.cyril-sebastian.com)
-[![](https://img.shields.io/website?label=PROFILE+VIEWS&style=for-the-badge)](![](https://komarev.com/ghpvc/?username=cyrilsebastian1811))
 
-[![](https://komarev.com/ghpvc/?username=cyrilsebastian1811&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=cyrilsebastian1811&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=cyrilsebastian1811&label=PROFILE+VIEWS)
 
 ### Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
