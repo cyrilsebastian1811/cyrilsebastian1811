@@ -34,10 +34,10 @@
 <br/><br/>
 
 ### :zap: Github Stats
-[![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&count_private=true&show_icons=true&theme=prussian)][stats]
+[![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&count_private=true&show_icons=true&theme=prussian&card_width=400)][stats]
 
 ### :zap: Frequent used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&theme=prussian&width=400)][stats]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilsebastian1811&layout=compact&langs_count=8&theme=prussian&card_width=400)][stats]
 
 ### :zap: Favourite Repositories
 #### CSYE-6225
