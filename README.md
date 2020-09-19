@@ -56,7 +56,7 @@
 <br/>
 
 #### CSYE-7374
-<p width="100%" align="center">
+<p width="100%" align="center" style="clear: boath;">
   <a align="left" href="https://github.com/cyrilsebastian1811/Jenkins-Setup" title="Jenkins-Setup">
     <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Jenkins-Setup">
   </a>
