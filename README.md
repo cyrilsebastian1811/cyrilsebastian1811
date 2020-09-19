@@ -53,10 +53,10 @@
   </a>
 </p>
 
-<br/>
+<br><br>
 
 #### CSYE-7374
-<p width="100%" align="center" style="clear: boath;">
+<p width="100%" align="center">
   <a align="left" href="https://github.com/cyrilsebastian1811/Jenkins-Setup" title="Jenkins-Setup">
     <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Jenkins-Setup">
   </a>
@@ -82,6 +82,8 @@
     <img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Users-S3-Bucket-Operator">
   </a>
 </p>
+
+<br><br>
 
 #### CSYE-7220
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Devops7220)][Devops7220]
