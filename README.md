@@ -12,15 +12,10 @@
 <code><img title="React" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react.svg"></code>
 <code><img title="Angular" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angular.svg"></code>
 <code><img title="Python" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
-
 <code><img title="Node.js" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
 <code><img title="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
 <code><img title="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
 <code><img title="Git" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 <code><img title="Terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/><br/>
