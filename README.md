@@ -1,6 +1,6 @@
 ### Hi there, I'm Cyril Sebastian
-[![Website](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=http://www.cyril-sebastian.com)](http://www.cyril-sebastian.com)
-[![image title](https://img.shields.io/website?label=Profile%20views&style=for-the-badge)][https://komarev.com/ghpvc/?username=cyrilsebastian1811]
+[![website](https://img.shields.io/website?label=cyril-sebastian.com&style=for-the-badge&url=http://www.cyril-sebastian.com)](http://www.cyril-sebastian.com)
+[![image title](https://img.shields.io/website?label=Profile%20views&style=for-the-badge)](https://komarev.com/ghpvc/?username=cyrilsebastian1811)
 
 ### Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
