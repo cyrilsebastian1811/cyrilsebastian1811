@@ -41,7 +41,7 @@
 
 ### :zap: Favourite Repositories
 #### CSYE-6225
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]{:style="width: 50%;"}
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]{:height="115px" width="50%"}
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]{:style="width: 50%;"}
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]{:style="width: 50%;"}
 
