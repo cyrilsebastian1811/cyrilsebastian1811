@@ -41,11 +41,19 @@
 
 ### :zap: Favourite Repositories
 #### CSYE-6225
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&card_width=450&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&card_width=450&username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&card_width=450&username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=CSYE6225-AMI)][CSYE6225-AMI]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Serverless-Email-Notifier)][Serverless-Email-Notifier]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Library-Management-System)][Library-Management-System]
 
 #### CSYE-7374
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Jenkins-Setup)][Jenkins-Setup]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=K8s-Cluster-Setup)][K8s-Cluster-Setup]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=K8s-Cluster-Configuration)][K8s-Cluster-Configuration]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Logs_Metrics-HelmChart)][Logs_Metrics-HelmChart]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Recipe-Management-System-frontend)][Recipe-Management-System-frontend]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Recipe-Management-System-backend)][Recipe-Management-System-backend]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Recipe-Management-System-Helm-Charts)][Recipe-Management-System-Helm-Charts]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Users-S3-Bucket-Operator)][Users-S3-Bucket-Operator]
 
 #### CSYE-7220
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=cyrilsebastian1811&repo=Devops7220)][Devops7220]
