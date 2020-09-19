@@ -18,8 +18,6 @@
 <code><img title="Git" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="Terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br/><br/>
-
 ### :zap: Github Stats
 [![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=cyrilsebastian1811&count_private=true&show_icons=true&theme=nord&card_width=450)][stats]
 
