@@ -1,14 +1,9 @@
 ### Hi there, I'm Cyril Sebastian
-[![](https://img.shields.io/website?label=cyril-sebastian.com&style=flat&url=http://www.cyril-sebastian.com)][website]
 ![](https://komarev.com/ghpvc/?username=cyrilsebastian1811)
-
-### Connect with me:
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
+[![](https://img.shields.io/website?label=cyril-sebastian.com&style=flat&url=http://www.cyril-sebastian.com)][website]
+[![](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <code><img title="Java" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></code>
 <code><img title="Javascript" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
 <code><img title="HTML5" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
@@ -18,17 +13,15 @@
 <code><img title="Angular" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angular.svg"></code>
 <code><img title="Python" height="30" width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<code><img align="left" alt="Node.js" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<code><img align="left" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<code><img align="left" alt="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<code><img align="left" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<code><img align="left" alt="Terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/><br/>
 
